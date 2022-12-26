@@ -2,11 +2,11 @@
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":3,"parentId":0,"scrollX":1557.6,"scrollY":1200},
 {"id":2,"expanded":false,"name":"Prologue","order":2,"parentId":4,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
-{"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":4,"parentId":1,"scrollX":703.1999999999999,"scrollY":608.4},
+{"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":4,"parentId":1,"scrollX":712,"scrollY":558.6666666666666},
 {"id":4,"expanded":false,"name":"Grandine","order":1,"parentId":0,"scrollX":799.1999999999999,"scrollY":1088.3999999999999},
-{"id":5,"expanded":true,"name":"Apartment","order":5,"parentId":3,"scrollX":915.4285714285713,"scrollY":665.1428571428571},
+{"id":5,"expanded":true,"name":"Apartment","order":5,"parentId":3,"scrollX":728,"scrollY":478.6666666666667},
 {"id":6,"expanded":true,"name":"Outside Apartment 2","order":18,"parentId":1,"scrollX":915.4285714285713,"scrollY":684},
-{"id":7,"expanded":true,"name":"Outside Apartment 1","order":16,"parentId":1,"scrollX":915.4285714285713,"scrollY":658.2857142857142},
+{"id":7,"expanded":true,"name":"Outside Apartment 1","order":16,"parentId":1,"scrollX":728,"scrollY":658.6666666666666},
 {"id":8,"expanded":false,"name":"MAP008","order":36,"parentId":24,"scrollX":1084,"scrollY":602},
 {"id":9,"expanded":false,"name":"West Outskirt","order":19,"parentId":6,"scrollX":799.1999999999999,"scrollY":656.4},
 {"id":10,"expanded":false,"name":"Center","order":21,"parentId":1,"scrollX":1165.2,"scrollY":783.5999999999999},
@@ -46,5 +46,5 @@ null,
 {"id":44,"expanded":false,"name":"Land Owner's House","order":13,"parentId":5,"scrollX":650.4,"scrollY":361.2},
 {"id":45,"expanded":false,"name":"Neighbor 1","order":14,"parentId":5,"scrollX":650.4,"scrollY":361.2},
 {"id":46,"expanded":false,"name":"Neighbor 2","order":15,"parentId":5,"scrollX":650.4,"scrollY":361.2},
-{"id":47,"expanded":false,"name":"Store","order":17,"parentId":7,"scrollX":929.1428571428571,"scrollY":516}
+{"id":47,"expanded":false,"name":"Store","order":17,"parentId":7,"scrollX":712,"scrollY":452}
 ]
