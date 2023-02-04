@@ -48,6 +48,6 @@ null,
 {"id":46,"expanded":false,"name":"Neighbor 2","order":17,"parentId":5,"scrollX":650.4,"scrollY":361.2},
 {"id":47,"expanded":false,"name":"Store","order":19,"parentId":7,"scrollX":819,"scrollY":457},
 {"id":48,"expanded":false,"name":"Boss Area","order":50,"parentId":30,"scrollX":1234.909090909091,"scrollY":1112.7272727272727},
-{"id":49,"expanded":false,"name":"Inside School","order":2,"parentId":4,"scrollX":811,"scrollY":599},
+{"id":49,"expanded":false,"name":"Inside School","order":2,"parentId":4,"scrollX":811,"scrollY":457},
 {"id":50,"expanded":false,"name":"Principal's Office","order":3,"parentId":4,"scrollX":819,"scrollY":457}
 ]
