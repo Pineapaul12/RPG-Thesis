@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":14,"parentId":0,"scrollX":1593,"scrollY":1189},
+{"id":1,"expanded":true,"name":"MAP001","order":14,"parentId":0,"scrollX":1593,"scrollY":1169},
 {"id":2,"expanded":false,"name":"Prologue","order":2,"parentId":4,"scrollX":819,"scrollY":457},
-{"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":15,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":15,"parentId":1,"scrollX":811,"scrollY":503},
 {"id":4,"expanded":true,"name":"Cutscene","order":1,"parentId":0,"scrollX":1167,"scrollY":579},
 {"id":5,"expanded":true,"name":"Apartment","order":16,"parentId":3,"scrollX":728,"scrollY":478.6666666666667},
 {"id":6,"expanded":true,"name":"Outside Apartment 2","order":29,"parentId":1,"scrollX":811,"scrollY":684},
@@ -58,5 +58,5 @@ null,
 {"id":56,"expanded":false,"name":"Scene 6","order":10,"parentId":50,"scrollX":832,"scrollY":640},
 {"id":57,"expanded":false,"name":"Scene 7","order":11,"parentId":50,"scrollX":832,"scrollY":640},
 {"id":58,"expanded":false,"name":"Scene 8","order":12,"parentId":50,"scrollX":819,"scrollY":457},
-{"id":59,"expanded":false,"name":"Scene 9","order":13,"parentId":50,"scrollX":832,"scrollY":640}
+{"id":59,"expanded":false,"name":"Scene 9","order":13,"parentId":50,"scrollX":819,"scrollY":457}
 ]
