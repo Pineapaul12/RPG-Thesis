@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":10,"parentId":0,"scrollX":1593.3333333333333,"scrollY":1189.3333333333333},
+{"id":1,"expanded":true,"name":"MAP001","order":10,"parentId":0,"scrollX":1593,"scrollY":1189},
 {"id":2,"expanded":false,"name":"Prologue","order":2,"parentId":4,"scrollX":819,"scrollY":457},
 {"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":11,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Cutscene","order":1,"parentId":0,"scrollX":1167,"scrollY":1079},
+{"id":4,"expanded":true,"name":"Cutscene","order":1,"parentId":0,"scrollX":1167,"scrollY":579},
 {"id":5,"expanded":true,"name":"Apartment","order":12,"parentId":3,"scrollX":728,"scrollY":478.6666666666667},
 {"id":6,"expanded":true,"name":"Outside Apartment 2","order":25,"parentId":1,"scrollX":811,"scrollY":684},
 {"id":7,"expanded":true,"name":"Outside Apartment 1","order":23,"parentId":1,"scrollX":811,"scrollY":722},
@@ -50,9 +50,9 @@ null,
 {"id":48,"expanded":false,"name":"Boss Area","order":55,"parentId":30,"scrollX":1234.909090909091,"scrollY":1112.7272727272727},
 {"id":49,"expanded":true,"name":"Inside School","order":3,"parentId":4,"scrollX":811,"scrollY":599},
 {"id":50,"expanded":true,"name":"Principal's Office Scene 1","order":5,"parentId":4,"scrollX":819,"scrollY":457},
-{"id":51,"expanded":false,"name":"Inside School","order":4,"parentId":4,"scrollX":811,"scrollY":599},
-{"id":52,"expanded":false,"name":"Scene 2","order":6,"parentId":50,"scrollX":832,"scrollY":640},
+{"id":51,"expanded":false,"name":"Inside School","order":4,"parentId":4,"scrollX":811,"scrollY":579},
+{"id":52,"expanded":false,"name":"Scene 2","order":6,"parentId":50,"scrollX":819,"scrollY":457},
 {"id":53,"expanded":false,"name":"Scene 3","order":7,"parentId":50,"scrollX":832,"scrollY":640},
 {"id":54,"expanded":false,"name":"Scene 4","order":8,"parentId":50,"scrollX":832,"scrollY":640},
-{"id":55,"expanded":false,"name":"Scene 5","order":9,"parentId":50,"scrollX":722.6666666666666,"scrollY":401.3333333333333}
+{"id":55,"expanded":false,"name":"Scene 5","order":9,"parentId":50,"scrollX":819,"scrollY":457}
 ]
