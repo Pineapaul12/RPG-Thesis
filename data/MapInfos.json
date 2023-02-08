@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":14,"parentId":0,"scrollX":1594,"scrollY":1170},
-{"id":2,"expanded":false,"name":"Prologue","order":2,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Prologue","order":2,"parentId":4,"scrollX":819,"scrollY":457},
 {"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":15,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Cutscene","order":1,"parentId":0,"scrollX":1242,"scrollY":624},
+{"id":4,"expanded":true,"name":"Cutscene","order":1,"parentId":0,"scrollX":1290,"scrollY":624},
 {"id":5,"expanded":true,"name":"Apartment","order":16,"parentId":3,"scrollX":811,"scrollY":640},
 {"id":6,"expanded":true,"name":"Outside Apartment 2","order":29,"parentId":1,"scrollX":811,"scrollY":684},
 {"id":7,"expanded":true,"name":"Outside Apartment 1","order":27,"parentId":1,"scrollX":811,"scrollY":722},
