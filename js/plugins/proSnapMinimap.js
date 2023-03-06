@@ -498,7 +498,7 @@
                     }
                 }
             }
-            drawCharacter(this.snapMinimapOverlay, mainActor._characterName, mainActor._characterIndex, $gamePlayer._realX * 6, y);
+            
             this.spriteFloatyMM += 0.1;
             this.snapMinimapOverlay.drawCircle(3 + $gamePlayer._realX * 6, 4 + $gamePlayer._realY * 6, 2, params['PlayerColor'])
             this.snapMinimapRender.origin.x = Math.min(Math.max(-64 + $gamePlayer._realX * 6, 0), ($dataMap.width * 6) - 128);
