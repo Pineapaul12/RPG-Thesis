@@ -2,6 +2,7 @@
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Siegh","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Axcel","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_8","characterIndex":7,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":7,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anon","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":2,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Axcel","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Guardian_Anon","characterIndex":0,"characterName":"Guardians","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Guardians","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anon","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
