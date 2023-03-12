@@ -68,12 +68,10 @@ null,
 {"id":66,"expanded":false,"name":"MAP066","order":66,"parentId":61,"scrollX":1626,"scrollY":903},
 {"id":67,"expanded":false,"name":"MAP067","order":67,"parentId":66,"scrollX":1084,"scrollY":602},
 {"id":68,"expanded":false,"name":"MAP068","order":68,"parentId":61,"scrollX":1084,"scrollY":602},
-{"id":69,"expanded":false,"name":"MAP069","order":69,"parentId":61,"scrollX":1084,"scrollY":602},
-{"id":70,"expanded":false,"name":"MAP070","order":70,"parentId":61,"scrollX":1084,"scrollY":602},
-{"id":71,"expanded":false,"name":"MAP071","order":71,"parentId":61,"scrollX":1084,"scrollY":602},
+{"id":69,"expanded":false,"name":"MAP069","order":69,"parentId":61,"scrollX":1626,"scrollY":903},
+{"id":70,"expanded":false,"name":"MAP070","order":70,"parentId":61,"scrollX":1626,"scrollY":903},
+{"id":71,"expanded":false,"name":"MAP071","order":71,"parentId":61,"scrollX":1626,"scrollY":903},
 {"id":72,"expanded":false,"name":"MAP072","order":72,"parentId":61,"scrollX":1626,"scrollY":903},
-{"id":73,"expanded":false,"name":"MAP073","order":73,"parentId":61,"scrollX":1858.2857142857142,"scrollY":1032},
-{"id":74,"expanded":true,"name":"Chapter 2 School","order":74,"parentId":61,"scrollX":1602,"scrollY":1017},
-{"id":75,"expanded":true,"name":"Snow Castle","order":75,"parentId":74,"scrollX":1424,"scrollY":1376},
-{"id":76,"expanded":false,"name":"School","order":76,"parentId":75,"scrollX":1424,"scrollY":1117.3333333333333}
+{"id":73,"expanded":false,"name":"MAP073","order":73,"parentId":61,"scrollX":1626,"scrollY":903},
+{"id":74,"expanded":true,"name":"Chapter 2 School","order":74,"parentId":61,"scrollX":1602,"scrollY":1017}
 ]
