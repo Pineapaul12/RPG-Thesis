@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":14,"parentId":0,"scrollX":3634.909090909091,"scrollY":1586.1818181818182},
+{"id":1,"expanded":false,"name":"MAP001","order":14,"parentId":0,"scrollX":3634,"scrollY":3066},
 {"id":2,"expanded":false,"name":"Prologue","order":2,"parentId":4,"scrollX":819,"scrollY":457},
 {"id":3,"expanded":true,"name":"Forest(Hindi alam ano gagawi haha)","order":15,"parentId":1,"scrollX":929.1428571428571,"scrollY":516},
 {"id":4,"expanded":false,"name":"Cutscene","order":1,"parentId":0,"scrollX":1165.0909090909092,"scrollY":656.7272727272727},
@@ -97,7 +97,8 @@ null,
 {"id":95,"expanded":false,"name":"MAP095","order":94,"parentId":92,"scrollX":1084,"scrollY":602},
 {"id":96,"expanded":false,"name":"MAP096","order":95,"parentId":92,"scrollX":1068,"scrollY":602},
 {"id":97,"expanded":false,"name":"MAP097","order":97,"parentId":92,"scrollX":1084,"scrollY":602},
-{"id":98,"expanded":false,"name":"MAP098","order":98,"parentId":92,"scrollX":1084,"scrollY":602},
-{"id":99,"expanded":false,"name":"MAP099","order":99,"parentId":92,"scrollX":1084,"scrollY":602},
-{"id":100,"expanded":false,"name":"MAP100","order":100,"parentId":92,"scrollX":1084,"scrollY":602}
+{"id":98,"expanded":true,"name":"MAP098","order":98,"parentId":92,"scrollX":1445.3333333333333,"scrollY":802.6666666666666},
+{"id":99,"expanded":false,"name":"MAP099","order":100,"parentId":92,"scrollX":1626,"scrollY":903},
+{"id":100,"expanded":false,"name":"MAP100","order":101,"parentId":92,"scrollX":1084,"scrollY":602},
+{"id":101,"expanded":true,"name":"MAP101","order":99,"parentId":98,"scrollX":1602,"scrollY":1065}
 ]
