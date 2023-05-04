@@ -98,6 +98,6 @@ null,
 {"id":96,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":97,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":98,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":99,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":99,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":1},
 {"id":100,"list":[{"code":356,"indent":0,"parameters":["CGMVEncyclopedia Scene"]},{"code":0,"indent":0,"parameters":[]}],"name":"Encyclopedia","switchId":1,"trigger":0}
 ]
