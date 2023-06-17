@@ -1,1 +1,1 @@
-{"Scene_Title":{"Window_TitleCommand":{"x":288,"y":384}},"Scene_Battle":{"Window_BattleStatus":{"x":96,"y":444},"Window_Message":{"x":0,"y":444},"Window_ChoiceList":{"x":516,"y":264}}}
+{"Scene_Title":{"Window_TitleCommand":{"x":288,"y":384}},"Scene_Battle":{"Window_BattleStatus":{"x":96,"y":444},"Window_Message":{"x":0,"y":444},"Window_ChoiceList":{"x":516,"y":264},"Window_BattleStatusUpgrade":{"x":660,"y":84}}}
